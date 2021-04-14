@@ -1,0 +1,50 @@
+
+
+body{
+    background-color: black;
+}
+.conteudo
+{
+width: 400px;
+height: 200px;
+background-image: url('../img/tnc.png');
+background-size: cover;
+background-repeat: no-repeat;
+padding: 10px 30px;
+margin: 20px auto;
+box-sizing: border-box;
+}
+
+.nome
+{
+    text-align: center;
+}
+.nome span
+{
+    font-size: 22px;   
+}
+
+a
+{
+    text-decoration: none;
+    color: black;
+}
+
+li
+{
+    margin-top: 5px;
+}
+.you
+{       
+        list-style-image: url('../img/Youtube.png');        
+}
+
+.twtt
+{
+        list-style-image: url('../img/Twitter.png');
+}
+    
+.insta
+{
+        list-style-image: url('../img/Insta.png');
+}
